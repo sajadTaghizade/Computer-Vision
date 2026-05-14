@@ -1,0 +1,13 @@
+# ویدئوهای خروجی
+*.mp4
+
+# تمام تصاویر خروجی در CA2
+CA2/codes/captchas_filtered/
+CA2/codes/captchas_noisy/
+CA2/codes/captchas_preprocessed/
+CA2/codes/captchas_raw/
+CA2/codes/captchas_segmented/
+
+# فایل‌های سیستمی و کش پایتون
+__pycache__/
+.ipynb_checkpoints/
